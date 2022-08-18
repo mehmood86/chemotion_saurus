@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://chemotion.net/chemotionsaurus/blog</id>
+    <title>Chemotion Blog</title>
+    <updated>2022-06-30T08:53:21.091Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://chemotion.net/chemotionsaurus/blog"/>
+    <subtitle>Chemotion Blog</subtitle>
+    <icon>https://chemotion.net/chemotionsaurus/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Newsroom]]></title>
+        <id>newsroom</id>
+        <link href="https://chemotion.net/chemotionsaurus/blog/newsroom"/>
+        <updated>2022-06-30T08:53:21.091Z</updated>
+        <summary type="html"><![CDATA[This is the blog of the Chemotion Repository.]]></summary>
+        <content type="html"><![CDATA[<p>This is the blog of the Chemotion Repository.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Assignment in Chemotion Repository]]></title>
+        <id>data_assignment</id>
+        <link href="https://chemotion.net/chemotionsaurus/blog/data_assignment"/>
+        <updated>2020-02-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This video shows the basics to add data to the right place in the repository chemotion.]]></summary>
+        <content type="html"><![CDATA[<p>This video shows the basics to add data to the right place in the repository chemotion.</p><iframe width="640" height="360" src="https://www.youtube.com/embed/EpJmuMFtvag" frameborder="0" allow="accelerometer; 
+autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe><p>Another video, part B, will be provided soon. Part B will then give some examples included to a demo of the repository.</p>]]></content>
+        <author>
+            <name>Nicole Jung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to add collaborators to your profile]]></title>
+        <id>add_collaborators</id>
+        <link href="https://chemotion.net/chemotionsaurus/blog/add_collaborators"/>
+        <updated>2020-02-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[See the new You-Tube video to learn how to add collaborators to your profile. Collaborators should be created to enable]]></summary>
+        <content type="html"><![CDATA[<p>See the new You-Tube video to learn how to add collaborators to your profile. Collaborators should be created to enable
+the addition of additional authors to data publications in the publishing process: </p><iframe width="640" height="360" src="https://www.youtube.com/embed/mNL0REP76Gc" frameborder="0" allow="accelerometer; 
+autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>]]></content>
+        <author>
+            <name>Nicole Jung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add authors to your submission]]></title>
+        <id>add_authors</id>
+        <link href="https://chemotion.net/chemotionsaurus/blog/add_authors"/>
+        <updated>2020-01-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img]]></summary>
+        <content type="html"><![CDATA[<img src="/chemotionsaurus/assets/images/310120-5262efdc3f49a90eeb15115f8b62826c.png" alt="select authors"><p>For new submissions: please ensure that you add yourself as author and not only as contributor which is set as default.
+The change of the procedure applies to the tab to initialize the publication and review process.</p><p>We introduced this procedure to ensure that one is able to add data on behalf of others. A requirement for a listing as
+author is the registration in the chemotion repository. If you use this function, please take care that all authors
+agreed to be mentioned.</p>]]></content>
+        <author>
+            <name>Nicole Jung</name>
+        </author>
+    </entry>
+</feed>

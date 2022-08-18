@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Chemotion Blog</title>
+        <link>https://chemotion.net/chemotionsaurus/blog</link>
+        <description>Chemotion Blog</description>
+        <lastBuildDate>Thu, 30 Jun 2022 08:53:21 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Newsroom]]></title>
+            <link>https://chemotion.net/chemotionsaurus/blog/newsroom</link>
+            <guid>newsroom</guid>
+            <pubDate>Thu, 30 Jun 2022 08:53:21 GMT</pubDate>
+            <description><![CDATA[This is the blog of the Chemotion Repository.]]></description>
+            <content:encoded><![CDATA[<p>This is the blog of the Chemotion Repository.</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Data Assignment in Chemotion Repository]]></title>
+            <link>https://chemotion.net/chemotionsaurus/blog/data_assignment</link>
+            <guid>data_assignment</guid>
+            <pubDate>Tue, 25 Feb 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[This video shows the basics to add data to the right place in the repository chemotion.]]></description>
+            <content:encoded><![CDATA[<p>This video shows the basics to add data to the right place in the repository chemotion.</p><iframe width="640" height="360" src="https://www.youtube.com/embed/EpJmuMFtvag" frameborder="0" allow="accelerometer; 
+autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe><p>Another video, part B, will be provided soon. Part B will then give some examples included to a demo of the repository.</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[How to add collaborators to your profile]]></title>
+            <link>https://chemotion.net/chemotionsaurus/blog/add_collaborators</link>
+            <guid>add_collaborators</guid>
+            <pubDate>Sun, 16 Feb 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[See the new You-Tube video to learn how to add collaborators to your profile. Collaborators should be created to enable]]></description>
+            <content:encoded><![CDATA[<p>See the new You-Tube video to learn how to add collaborators to your profile. Collaborators should be created to enable
+the addition of additional authors to data publications in the publishing process: </p><iframe width="640" height="360" src="https://www.youtube.com/embed/mNL0REP76Gc" frameborder="0" allow="accelerometer; 
+autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Add authors to your submission]]></title>
+            <link>https://chemotion.net/chemotionsaurus/blog/add_authors</link>
+            <guid>add_authors</guid>
+            <pubDate>Fri, 31 Jan 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img]]></description>
+            <content:encoded><![CDATA[<img src="/chemotionsaurus/assets/images/310120-5262efdc3f49a90eeb15115f8b62826c.png" alt="select authors"><p>For new submissions: please ensure that you add yourself as author and not only as contributor which is set as default.
+The change of the procedure applies to the tab to initialize the publication and review process.</p><p>We introduced this procedure to ensure that one is able to add data on behalf of others. A requirement for a listing as
+author is the registration in the chemotion repository. If you use this function, please take care that all authors
+agreed to be mentioned.</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
