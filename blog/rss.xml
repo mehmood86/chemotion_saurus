@@ -4,14 +4,15 @@
         <title>Chemotion Blog</title>
         <link>https://chemotion.net/chemotionsaurus/blog</link>
         <description>Chemotion Blog</description>
-        <lastBuildDate>Thu, 30 Jun 2022 08:53:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Mar 2021 22:11:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
         <item>
             <title><![CDATA[Newsroom]]></title>
             <link>https://chemotion.net/chemotionsaurus/blog/newsroom</link>
             <guid>newsroom</guid>
-            <pubDate>Thu, 30 Jun 2022 08:53:21 GMT</pubDate>
+            <pubDate>Thu, 25 Mar 2021 22:11:44 GMT</pubDate>
             <description><![CDATA[This is the blog of the Chemotion Repository.]]></description>
             <content:encoded><![CDATA[<p>This is the blog of the Chemotion Repository.</p>]]></content:encoded>
         </item>
@@ -40,7 +41,7 @@ autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></ifr
             <guid>add_authors</guid>
             <pubDate>Fri, 31 Jan 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[<img]]></description>
-            <content:encoded><![CDATA[<img src="/chemotionsaurus/assets/images/310120-5262efdc3f49a90eeb15115f8b62826c.png" alt="select authors"><p>For new submissions: please ensure that you add yourself as author and not only as contributor which is set as default.
+            <content:encoded><![CDATA[<img loading="lazy" src="/chemotionsaurus/assets/images/310120-5262efdc3f49a90eeb15115f8b62826c.png" alt="select authors" class="img_ev3q"><p>For new submissions: please ensure that you add yourself as author and not only as contributor which is set as default.
 The change of the procedure applies to the tab to initialize the publication and review process.</p><p>We introduced this procedure to ensure that one is able to add data on behalf of others. A requirement for a listing as
 author is the registration in the chemotion repository. If you use this function, please take care that all authors
 agreed to be mentioned.</p>]]></content:encoded>

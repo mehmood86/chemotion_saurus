@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chemotion.net/chemotionsaurus/blog</id>
     <title>Chemotion Blog</title>
-    <updated>2022-06-30T08:53:21.091Z</updated>
+    <updated>2021-03-25T22:11:44.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chemotion.net/chemotionsaurus/blog"/>
     <subtitle>Chemotion Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Newsroom]]></title>
         <id>newsroom</id>
         <link href="https://chemotion.net/chemotionsaurus/blog/newsroom"/>
-        <updated>2022-06-30T08:53:21.091Z</updated>
+        <updated>2021-03-25T22:11:44.000Z</updated>
         <summary type="html"><![CDATA[This is the blog of the Chemotion Repository.]]></summary>
         <content type="html"><![CDATA[<p>This is the blog of the Chemotion Repository.</p>]]></content>
     </entry>
@@ -46,7 +46,7 @@ autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></ifr
         <link href="https://chemotion.net/chemotionsaurus/blog/add_authors"/>
         <updated>2020-01-31T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<img]]></summary>
-        <content type="html"><![CDATA[<img src="/chemotionsaurus/assets/images/310120-5262efdc3f49a90eeb15115f8b62826c.png" alt="select authors"><p>For new submissions: please ensure that you add yourself as author and not only as contributor which is set as default.
+        <content type="html"><![CDATA[<img loading="lazy" src="/chemotionsaurus/assets/images/310120-5262efdc3f49a90eeb15115f8b62826c.png" alt="select authors" class="img_ev3q"><p>For new submissions: please ensure that you add yourself as author and not only as contributor which is set as default.
 The change of the procedure applies to the tab to initialize the publication and review process.</p><p>We introduced this procedure to ensure that one is able to add data on behalf of others. A requirement for a listing as
 author is the registration in the chemotion repository. If you use this function, please take care that all authors
 agreed to be mentioned.</p>]]></content>

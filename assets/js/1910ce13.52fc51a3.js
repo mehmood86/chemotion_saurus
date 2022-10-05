@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchemotion_saurus=self.webpackChunkchemotion_saurus||[]).push([[2534],{8489:t=>{t.exports=JSON.parse('{"title":"Installation","slug":"/category/installation","permalink":"/chemotionsaurus/docs/category/installation","navigation":{"next":{"title":"Native installation","permalink":"/chemotionsaurus/docs/eln/native_installation"}}}')}}]);
